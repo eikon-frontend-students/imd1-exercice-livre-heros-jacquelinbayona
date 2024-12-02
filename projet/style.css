@@ -1,0 +1,14 @@
+body {
+  color: rgb(228, 243, 134);
+  background-color: rgb(32, 34, 80);
+  width: 100%;
+  max-width: 500px;
+  margin: auto;
+  padding: 80px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+h1 {
+  
+p {
+  color: whitesmoke
+}

@@ -1,8 +1,44 @@
 body {
   background-color: #1a1a1a;
   color: white;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  width: 100%;
+  max-width: 500px;
+  margin: left;
+  padding: 100px;
+}
+div {
+  background-color: #2a2a2a;
+  max-width: 600px;
+  border: 3px;
+  padding: 30px;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+img {
+  max-width: 150px;
+  height: 150px;
+  margin-right: 20px;
+  display: flex;
 }
 
+.titre {
+  margin: 0;
+  font-size: 24px;
+}
+
+.accroche {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+.auteur {
+  font-size: 16px;
+  margin: 0;
+}
 a {
   color: white;
 }

@@ -7,15 +7,14 @@ body {
   margin: left;
   padding: 100px;
 }
-div {
-  background-color: #2a2a2a;
-  max-width: 600px;
+.container {
+  background-color: #0f8296bf;
   border: 3px;
   padding: 30px;
+  border: solid #28c2ddde 3px;
   align-items: center;
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
   justify-content: flex-start;
 }
 img {
